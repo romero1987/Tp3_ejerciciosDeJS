@@ -11,7 +11,3 @@ function detalleDeCadena(cadena) {
         console.log(`La cadena de texto está formada por una mezcla de mayúsculas y minúsculas`)
     }
   }
-  detalleDeCadena(`HOLA SOY UNA CADENA DE TEXTO`);
-  detalleDeCadena('hola soy una cadena de texto');
-  detalleDeCadena(`Hola soy una cadena de texto`);
-  
